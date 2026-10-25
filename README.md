@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=4F46E5&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Tarun+Sumanth+Puli;I+build+real-time+web+apps;...and+LLM-powered+features" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=4F46E5&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Tarun+Sumanth+Puli;I+build+real-time+web+apps;...and+LLM-powered+features" alt="Typing intro" />
 </div>
 
 <h3 align="center">Full-Stack Software Engineer</h3>
@@ -18,6 +18,8 @@ Building <b>real-time web apps</b> and <b>LLM-powered features</b>, from the dat
 [![Codolio](https://img.shields.io/badge/Codolio-1200%2B_DSA_problems-F59E0B?style=for-the-badge)](https://codolio.com/profile/anonymowinter)
 &nbsp;
 [![DocWeave](https://img.shields.io/badge/Live_Project-DocWeave-4F46E5?style=for-the-badge&logo=googledocs&logoColor=white)](https://docweave.tarunsumanthpuli.in/)
+&nbsp;
+[![IPL Auction](https://img.shields.io/badge/Live_Project-IPL_Auction-F59E0B?style=for-the-badge)](https://iplauction.tarunsumanthpuli.in/)
 
 </div>
 
@@ -27,7 +29,7 @@ Building <b>real-time web apps</b> and <b>LLM-powered features</b>, from the dat
 
 - 💼 **Software Engineer at Dexur**, building full-stack features with Django, React, Redux Toolkit, and RTK Query.
 - 🛠️ I enjoy the hard parts of full-stack work: real-time sync, permissions, and streaming AI responses.
-- 🚀 **Recently built:** [DocWeave](https://docweave.tarunsumanthpuli.in/), a collaborative editor with live multiplayer editing and an AI writing assistant.
+- 🚀 **Recently built:** [DocWeave](https://docweave.tarunsumanthpuli.in/), a collaborative editor with live multiplayer editing and an AI writing assistant, and an [IPL-style live auction platform](https://iplauction.tarunsumanthpuli.in) with server-run clocks and race-free bidding.
 - 🌱 **Learning:** system design, AI engineering (RAG, agents, evals), and data systems.
 - 🎓 B.Tech in Computer Science, RGUKT Srikakulam, **CGPA 9.04/10**
 - 🤝 Always happy to connect with people building real-time and AI products.
@@ -58,7 +60,7 @@ A Google-Docs-style editor where a whole team writes in the same document at onc
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **Digital Civic Engagement Platform** | Report civic issues, auto-routed to the nearest office, with upvote-based prioritization, dashboards, and a credit system against fake reports | PostgreSQL, Prisma, Express, React, TanStack Query |
-| **Online Auction Platform** | Real-time bidding with capped rounds, live updates, and a fully automated auction flow driven by scheduled jobs | MongoDB, Express, React, Node.js, Socket.IO, Redux Toolkit |
+| **[IPL-style Live Auction](https://iplauction.tarunsumanthpuli.in)** · [source](https://github.com/Anonymo-Winter/ipl-auction) | Server-run real-time player auctions: race-free atomic bidding, anti-sniping, auto open/sell/vote/complete, big-screen view and admin console. 32 unit tests and 10 integration suites | Node.js, Express, MongoDB, Socket.IO, React, Redux Toolkit, Tailwind |
 | **Student Attendance Management System** | Admin and teacher dashboards to manage schedules and record, filter, and analyze attendance | PHP, MySQL |
 
 ---
@@ -120,5 +122,5 @@ A Google-Docs-style editor where a whole team writes in the same document at onc
 ---
 
 <div align="center">
-  <sub>Let's build something real-time together · Feel free to reach out on LinkedIn or email</sub>
+<sub>Let's build something real-time together · Feel free to reach out on LinkedIn or email</sub>
 </div>
