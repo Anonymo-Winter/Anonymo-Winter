@@ -15,11 +15,11 @@ Building <b>real-time web apps</b> and <b>LLM-powered features</b>, from the dat
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulitarun2432@gmail.com)
 &nbsp;
-[![Codolio](https://img.shields.io/badge/Codolio-1200%2B_DSA_problems-F59E0B?style=for-the-badge)](https://codolio.com/profile/anonymowinter)
+[![Codolio](https://img.shields.io/badge/Codolio-1200%2B_DSA-F59E0B?style=for-the-badge)](https://codolio.com/profile/anonymowinter)
 &nbsp;
-[![DocWeave](https://img.shields.io/badge/Live_Project-DocWeave-4F46E5?style=for-the-badge&logo=googledocs&logoColor=white)](https://docweave.tarunsumanthpuli.in/)
+[![DocWeave](https://img.shields.io/badge/Live-DocWeave-4F46E5?style=for-the-badge&logo=googledocs&logoColor=white)](https://docweave.tarunsumanthpuli.in/)
 &nbsp;
-[![IPL Auction](https://img.shields.io/badge/Live_Project-IPL_Auction-F59E0B?style=for-the-badge)](https://iplauction.tarunsumanthpuli.in/)
+[![IPL Auction](https://img.shields.io/badge/Live-IPL_Auction-F59E0B?style=for-the-badge)](https://iplauction.tarunsumanthpuli.in/)
 
 </div>
 
